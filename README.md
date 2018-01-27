@@ -1,3 +1,5 @@
-gflkbm v,.bfd
-dfbjfdnfbm,
-fdkblfkb
+# Travel Destinations
+
+A simple app to keep track of destinations I'd like to visit.
+
+
